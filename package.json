@@ -1,0 +1,9 @@
+{
+  "name": "electron-start",
+  "version": "1.0.0",
+  "description": "menuapp",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}
